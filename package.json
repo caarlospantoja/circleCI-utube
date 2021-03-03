@@ -27,7 +27,8 @@
   },
   "dependencies": {
     "@types/jest": "^26.0.20",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "gitmoji-cli": "^3.3.0"
   },
   "description": ""
 }
